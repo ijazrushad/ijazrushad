@@ -2,59 +2,50 @@
 
 ### Network & Systems Engineer | DevOps Enthusiast
 
-<!-- Cloud Badges -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+<!-- Cloud & DevOps Tools Grid -->
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws,azure,gcp" /></a>
+</p>
 
-<!-- DevOps Tools -->
-<div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
-</div>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform" /></a>
+</p>
 
-<!-- Monitoring Tools -->
-<div>
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
-</div>
+<!-- Automation & Development Tools -->
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,bash,grafana,prometheus" /></a>
+</p>
 
-<!-- Programming Languages -->
-<div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-</div>
+<!-- You can add custom badges like this -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Expert-blue?style=for-the-badge&logo=azure-devops" />
+  <img src="https://img.shields.io/badge/Automation-Specialist-green?style=for-the-badge&logo=ansible" />
+</p>
 
-### Most Used Languages and Tools
-- AWS/Azure Cloud Services 40%
-- Infrastructure as Code 25%
-- Python/Shell Scripting 20%
-- Docker/Kubernetes 15%
-
-### 🛠 DevOps & Infrastructure Stack
+### 🛠️ DevOps & Infrastructure Stack
 ```yaml
-Cloud:
-  - AWS (EC2, VPC, S3, RDS)
-  - Azure (VMs, Storage, Active Directory)
-  - On-Premise Solutions
+Cloud & Infrastructure:
+  AWS:         '█████████░░   90%'
+  Azure:       '████████░░░   80%'
+  On-Premise:  '███████░░░░   70%'
 
 Containerization & Orchestration:
-  - Docker
-  - Kubernetes
-  - Container Registry
+  Docker:      '██████████░   95%'
+  Kubernetes:  '████████░░░   80%'
+  Helm:        '███████░░░░   70%'
 
 CI/CD & Automation:
-  - Jenkins
-  - GitLab CI
-  - GitHub Actions
+  Jenkins:     '█████████░░   90%'
+  GitLab CI:   '████████░░░   80%'
+  GitHub Actions: '██████░░░░   60%'
 
 Infrastructure as Code:
-  - Terraform
-  - AWS CloudFormation
-  - ARM Templates
+  Terraform:   '█████████░░   90%'
+  CloudFormation: '████████░░░   80%'
+  ARM Templates:  '███████░░░░   70%'
 
-Monitoring & Logging:
-  - ELK Stack
-  - Grafana
-  - Prometheus
+Monitoring & Observability:
+  ELK Stack:   '████████░░░   80%'
+  Grafana:     '████████░░░   80%'
+  Prometheus:  '███████░░░░   70%'
