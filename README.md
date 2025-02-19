@@ -1,51 +1,61 @@
-# Hi 👋, I'm Ijaz Ahmed
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Ijaz Ahmed
 
-### Network & Systems Engineer | DevOps Enthusiast
+### 🚀 DevOps | 🔒 SecOps | 🌐 Site Reliability Engineer | 💡 Tech Enthusiast
 
-<!-- Cloud & DevOps Tools Grid -->
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=aws,azure,gcp" /></a>
-</p>
-
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform" /></a>
-</p>
-
-<!-- Automation & Development Tools -->
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,bash,grafana,prometheus" /></a>
-</p>
-
-<!-- You can add custom badges like this -->
-<p align="center">
+<div align="center">
+  <!-- Cloud Platforms -->
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-Expert-blue?style=for-the-badge&logo=azure-devops" />
-  <img src="https://img.shields.io/badge/Automation-Specialist-green?style=for-the-badge&logo=ansible" />
-</p>
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</div>
 
-### 🛠️ DevOps & Infrastructure Stack
+<!-- Fancy Tech Grid -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,gitlab,terraform,ansible,prometheus,grafana" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,go,nginx,redis,elasticsearch,linux" />
+</div>
+
+<!-- Role Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/DevOps-Expert-FF6B6B?style=for-the-badge&logo=dev.to&logoColor=white" />
+  <img src="https://img.shields.io/badge/SecOps-Specialist-38E54D?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/SRE-Professional-9B59B6?style=for-the-badge&logo=google&logoColor=white" />
+</div>
+
+### 🛠️ DevOps & Infrastructure Arsenal
 ```yaml
-Cloud & Infrastructure:
-  AWS:         '█████████░░   90%'
-  Azure:       '████████░░░   80%'
-  On-Premise:  '███████░░░░   70%'
+Cloud & Infrastructure: 
+  AWS:           '⚡⚡⚡⚡⚡⚡⚡⚡⚡░  90%'
+  Azure:         '⚡⚡⚡⚡⚡⚡⚡⚡░░  80%'
+  DigitalOcean:  '⚡⚡⚡⚡⚡⚡⚡░░░  70%'
+  GCP:           '⚡⚡⚡⚡⚡⚡░░░░  60%'
+
+Security & Compliance:
+  DevSecOps:     '🔒🔒🔒🔒🔒🔒🔒🔒🔒░  90%'
+  IAM:           '🔒🔒🔒🔒🔒🔒🔒🔒░░  80%'
+  Security Tools: '🔒🔒🔒🔒🔒🔒🔒░░░  70%'
 
 Containerization & Orchestration:
-  Docker:      '██████████░   95%'
-  Kubernetes:  '████████░░░   80%'
-  Helm:        '███████░░░░   70%'
+  Docker:        '🐳🐳🐳🐳🐳🐳🐳🐳🐳🐳  95%'
+  Kubernetes:    '☸️☸️☸️☸️☸️☸️☸️☸️░░  80%'
+  Helm:          '⎈⎈⎈⎈⎈⎈⎈░░░  70%'
 
-CI/CD & Automation:
-  Jenkins:     '█████████░░   90%'
-  GitLab CI:   '████████░░░   80%'
-  GitHub Actions: '██████░░░░   60%'
+Automation & CI/CD:
+  Jenkins:       '🔄🔄🔄🔄🔄🔄🔄🔄🔄░  90%'
+  GitLab CI:     '🦊🦊🦊🦊🦊🦊🦊🦊░░  80%'
+  GitHub Actions: '🔧🔧🔧🔧🔧🔧🔧░░░  70%'
+  Ansible:       '🎯🎯🎯🎯🎯🎯🎯🎯░░  80%'
 
 Infrastructure as Code:
-  Terraform:   '█████████░░   90%'
-  CloudFormation: '████████░░░   80%'
-  ARM Templates:  '███████░░░░   70%'
+  Terraform:     '🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️░  90%'
+  CloudFormation: '🏗️🏗️🏗️🏗️🏗️🏗️🏗️🏗️░░  80%'
+  Pulumi:        '🏗️🏗️🏗️🏗️🏗️🏗️🏗️░░░  70%'
 
 Monitoring & Observability:
-  ELK Stack:   '████████░░░   80%'
-  Grafana:     '████████░░░   80%'
-  Prometheus:  '███████░░░░   70%'
+  Prometheus:    '📊📊📊📊📊📊📊📊░░  80%'
+  Grafana:       '📈📈📈📈📈📈📈📈░░  80%'
+  ELK Stack:     '🔍🔍🔍🔍🔍🔍🔍░░░  70%'
